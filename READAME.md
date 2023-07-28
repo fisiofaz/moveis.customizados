@@ -13,7 +13,7 @@ Projeto começando do Zaro a um Desenvolvedor  Web Full Stack. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="#" width="100%">
+  <img alt="projeto Móveis Customizados" src="#" width="100%">
 </p>
 
 ## 🚀 Tecnologias
